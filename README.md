@@ -1,1 +1,1 @@
-# practised-document-object-manipulation-in-javascript
+# practised javascript document object manipulation (DOM)
